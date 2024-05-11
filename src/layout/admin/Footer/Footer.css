@@ -1,0 +1,12 @@
+.footer_end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 550px;
+    background-color: rgb(28 31 35);
+    padding: 30px 100px;
+}
+.footer_end p{
+    color: white;
+    font-size: 16px;
+}
